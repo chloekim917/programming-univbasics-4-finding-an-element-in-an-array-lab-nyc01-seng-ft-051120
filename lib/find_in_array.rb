@@ -7,5 +7,5 @@ def find_element_index(array, value_to_find)
     end
     i+=i 
   end
-else return j
+return j
 end
