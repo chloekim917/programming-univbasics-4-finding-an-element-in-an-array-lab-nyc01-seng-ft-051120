@@ -4,3 +4,8 @@ def find_element_index(array, value_to_find)
   while i<array.length do
     if array[i] == value_to_find
       return i 
+    end
+    i+=i 
+  end
+else return j
+end
